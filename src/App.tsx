@@ -200,7 +200,7 @@ export default function App() {
 
     setIsSubmitting(true);
 
-    formData.append("access_key", "3e068f7a-4c61-4ee8-b6f9-e13881973e5d");
+    formData.append("access_key", "");
     formData.append("subject", "New Inquiry via Portfolio: Darin Williams");
     formData.append("from_name", "Portfolio Contact Form");
     formData.append("replyto", email);
